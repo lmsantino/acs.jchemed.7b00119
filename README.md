@@ -1,4 +1,4 @@
-# acs.jchemed.7b00119
+# Code for Arduino
 
 ```
 int smDirectionPin = 2; //Direction pin
